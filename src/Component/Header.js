@@ -10,7 +10,7 @@ function Header() {
             <h1 className="app-name">{appName}</h1>
         </div>
         <div className="code-link">
-            <a href="https://github.com/pushkar1020/Test-Magento" target="_blank" rel="noreferrer">Code</a>
+            <a href="https://github.com/pushkar1020/WhatsApp" target="_blank" rel="noreferrer">Code</a>
         </div>
         </header>
 );
