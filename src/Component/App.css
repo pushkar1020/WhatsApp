@@ -1,0 +1,28 @@
+.logo {
+  display: flex;
+}
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  align-items: center;
+  background-color: rgb(192 207 200);
+}
+.code-link a {
+  background-color: #04AA6D;
+  color: #ffffff;
+  border-color: #04AA6D;
+  padding: 6px 15px;
+  border: white 2px solid;
+  border-radius: 10%;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+}
+.code-link:hover {
+
+}
+.code-link a:hover {
+  background-color: white;
+  color: black;
+}
